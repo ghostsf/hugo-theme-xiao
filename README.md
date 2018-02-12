@@ -17,7 +17,7 @@ Xiao 是在 [Cactus-plus](https://github.com/nodejh/hugo-theme-cactus-plus) 更�
 示例网站： [http://code.ghostsf.com](http://code.ghostsf.com)。
 
 
-- [Hugo Theme Cactus Plus](#hugo-theme-cactus-plus)
+- [Hugo Theme Xiao](#hugo-theme-xiao)
 	- [安装](#安装)
 	- [文章摘要](#文章摘要)
 	- [关于页面](#关于页面)
